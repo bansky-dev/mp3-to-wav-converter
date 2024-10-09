@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/kociarz/_repos/mp3-to-wav-converter/mp3-to-wav-converter/mp3-to-wav-converter.csproj": {}
+    "C:\\_repos\\mp3-to-wav-converter\\mp3-to-wav-converter\\mp3-to-wav-converter\\mp3-to-wav-converter.csproj": {}
   },
   "projects": {
-    "/home/kociarz/_repos/mp3-to-wav-converter/mp3-to-wav-converter/mp3-to-wav-converter.csproj": {
+    "C:\\_repos\\mp3-to-wav-converter\\mp3-to-wav-converter\\mp3-to-wav-converter\\mp3-to-wav-converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kociarz/_repos/mp3-to-wav-converter/mp3-to-wav-converter/mp3-to-wav-converter.csproj",
+        "projectUniqueName": "C:\\_repos\\mp3-to-wav-converter\\mp3-to-wav-converter\\mp3-to-wav-converter\\mp3-to-wav-converter.csproj",
         "projectName": "mp3-to-wav-converter",
-        "projectPath": "/home/kociarz/_repos/mp3-to-wav-converter/mp3-to-wav-converter/mp3-to-wav-converter.csproj",
-        "packagesPath": "/home/kociarz/.nuget/packages/",
-        "outputPath": "/home/kociarz/_repos/mp3-to-wav-converter/mp3-to-wav-converter/obj/",
+        "projectPath": "C:\\_repos\\mp3-to-wav-converter\\mp3-to-wav-converter\\mp3-to-wav-converter\\mp3-to-wav-converter.csproj",
+        "packagesPath": "C:\\Users\\dbedn\\.nuget\\packages\\",
+        "outputPath": "C:\\_repos\\mp3-to-wav-converter\\mp3-to-wav-converter\\mp3-to-wav-converter\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/kociarz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\dbedn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
